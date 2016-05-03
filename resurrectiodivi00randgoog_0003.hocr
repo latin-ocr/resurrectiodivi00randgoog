@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./resurrectiodivi00randgoog_0003.png"; bbox 0 0 788 1133; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 102 462 414 632">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 102 462 414 632">
+     <span class='ocr_line' id='line_1_1' title="bbox 121 462 394 486; baseline -0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 121 463 171 480; x_wconf 82' lang='lat' dir='ltr'><em>From</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 179 462 205 481; x_wconf 71' lang='lat' dir='ltr'><em>tlte</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 211 463 292 481; x_wconf 71' lang='lat' dir='ltr'><em>collection</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 298 462 367 486; x_wconf 70' lang='lat' dir='ltr'><em>ofbwks</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 374 469 394 480; x_wconf 74' lang='lat' dir='ltr'><em>am</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 102 500 414 525; baseline -0.003 -7"><span class='ocrx_word' id='word_1_6' title='bbox 102 500 129 519; x_wconf 72' lang='lat' dir='ltr'><em>the</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 133 500 307 525; x_wconf 71' lang='lat' dir='ltr'><em>Bacon-Slzakcspeare</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 313 502 414 525; x_wconf 61' lang='lat' dir='ltr'><em>controversy</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 210 535 302 560; baseline 0.011 -1"><span class='ocrx_word' id='word_1_9' title='bbox 210 535 277 559; x_wconf 68' lang='lat' dir='ltr'><em>formed</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 284 535 302 560; x_wconf 65' lang='lat' dir='ltr'><em>by</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 131 571 382 597; baseline -0.004 -6"><span class='ocrx_word' id='word_1_11' title='bbox 131 571 201 591; x_wconf 61' lang='lat' dir='ltr'><em>Char-les</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 206 571 293 597; x_wconf 71' lang='lat' dir='ltr'><em>Piclming</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 298 572 382 590; x_wconf 73' lang='lat' dir='ltr'><em>Bowditch</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 187 606 326 632; baseline 0.007 -8"><span class='ocrx_word' id='word_1_14' title='bbox 187 606 272 632; x_wconf 68' lang='lat' dir='ltr'><em>presented</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 279 609 294 625; x_wconf 71' lang='lat' dir='ltr'><em>to</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 300 607 326 625; x_wconf 77' lang='lat' dir='ltr'><em>tlte</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 141 642 373 669">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 141 642 373 669">
+     <span class='ocr_line' id='line_1_6' title="bbox 141 642 373 669; baseline 0.004 -8"><span class='ocrx_word' id='word_1_17' title='bbox 141 642 220 661; x_wconf 76' lang='lat' dir='ltr'>Harvard</span> <span class='ocrx_word' id='word_1_18' title='bbox 227 642 297 667; x_wconf 73' lang='lat' dir='ltr'>Cullege</span> <span class='ocrx_word' id='word_1_19' title='bbox 304 643 373 669; x_wconf 75' lang='lat' dir='ltr'>Libmry</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 62 76 728 1056">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 62 76 728 1056">
+     <span class='ocr_line' id='line_1_7' title="bbox 62 76 728 1056; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 62 76 728 1056; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
